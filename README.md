@@ -1,10 +1,10 @@
-# AZURE PEAK
+# Glimmering Valley
 
 | Website                   | Link                                           |
 |---------------------------|------------------------------------------------|
 | Discord | [https://discord.gg/NCFXUAgCPT](https://discord.gg/NCFXUAgCPT)
 | Code    | [https://github.com/Azure-Peak/Azure-Peak](https://github.com/GeneralPantsuIsBadAtCoding/Azure-Peak)    |
-| Wiki    | [https://azurepeak.miraheze.org/wiki/Main_Page](https://azurepeak.miraheze.org/wiki/Main_Page) |
+
 
 ## LICENSE
 Original Fork Originates from [commit c28b351807bad950d2b323ada048190844bbda32](https://github.com/tgstation/tgstation/commit/c28b351807bad950d2b323ada048190844bbda32).
@@ -21,3 +21,5 @@ The TGS DMAPI is licensed as a subproject under the MIT license.
 See the footer of [code/__DEFINES/tgs.dm](./code/__DEFINES/tgs.dm) and [code/modules/tgs/LICENSE](./code/modules/tgs/LICENSE) for the MIT license.
 
 All assets including icons and sound are under a [Creative Commons 3.0 BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise indicated.
+
+A fork from Azure Peak, aiming to add changes, new additions, and QoL changes to create a truly beautiful experience.
