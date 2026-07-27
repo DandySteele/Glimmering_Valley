@@ -2,8 +2,8 @@
 
 | Website                   | Link                                           |
 |---------------------------|------------------------------------------------|
-| Discord | [https://discord.gg/NCFXUAgCPT](https://discord.gg/NCFXUAgCPT)
-| Code    | [https://github.com/Azure-Peak/Azure-Peak](https://github.com/GeneralPantsuIsBadAtCoding/Azure-Peak)    |
+| Discord | [https://discord.gg/BNENXAms6f](https://discord.gg/BNENXAms6f)
+| Code    | [https://github.com/DandySteele/Glimmering_Valley](https://github.com/DandySteele/Glimmering_Valley)    |
 
 
 ## LICENSE
